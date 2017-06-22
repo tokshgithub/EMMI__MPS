@@ -4,7 +4,7 @@
 (*contact:: adedoyin.adetokunbo@gmail.com*)
 (*material_model:: bcj*)
 (*model_dimension:: 1D *)
-
+(*model_dimension:: 1D *)
 
 
 (*BCJ-Model - Varying Strain-Rates (Case 1)*)
